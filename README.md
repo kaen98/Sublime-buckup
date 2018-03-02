@@ -27,5 +27,5 @@
 1. 关闭Sublime Text编辑器。
 2. 切换目录到`C:/Users/[user]/AppData/Roaming` [user]当前Windows用户名。
 2. 删除文件夹`Sublime Text 3`。
-4. 打开git命令行，输入`git clone https://git.oschina.net/tyk/Sublime-Backup.git 'Sublime Text 3'`。
+4. 打开git命令行，输入`git clone git@github.com:kaen98/Sublime-buckup.git 'Sublime Text 3'`。
 5. 重新打开Sublime Text。

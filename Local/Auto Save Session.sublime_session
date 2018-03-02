@@ -402,7 +402,7 @@
 					"file": "/C/Users/admin/AppData/Roaming/Sublime Text 3/README.md",
 					"settings":
 					{
-						"buffer_size": 881,
+						"buffer_size": 875,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
@@ -1040,15 +1040,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 881,
+								"buffer_size": 875,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										302,
-										302
+										837,
+										837
 									]
 								],
 								"settings":
@@ -1133,12 +1133,27 @@
 									{
 										"close":
 										{
+											"1":
+											[
+												852,
+												853
+											]
 										},
 										"icon":
 										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/dot.png",
+												"region.yellowish brackethighlighter.default"
+											]
 										},
 										"open":
 										{
+											"1":
+											[
+												784,
+												785
+											]
 										},
 										"unmatched":
 										{
@@ -1206,7 +1221,7 @@
 									"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 198.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
@@ -1251,7 +1266,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-32000,-32000,-1,-1,956,411,161,1877",
+			"position": "0,0,1,-32000,-32000,-1,-1,956,208,161,1877",
 			"project": "",
 			"replace":
 			{
