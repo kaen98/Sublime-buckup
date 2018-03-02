@@ -1,0 +1,19 @@
+{
+	"SublimeLinter":
+	{
+		"linters":
+		{
+			"php":
+			{
+				"cmd": "D:/phpStudy/php/php-7.0.12-nts/php.exe"
+			}
+		}
+	},
+	"color_scheme": "Packages/Facebook Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"Markdown",
+		"Vintage"
+	]
+}

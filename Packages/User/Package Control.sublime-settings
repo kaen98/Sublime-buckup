@@ -1,0 +1,33 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"Blade Snippets",
+		"BracketHighlighter",
+		"Colorsublime",
+		"DocBlockr",
+		"EditorConfig",
+		"Emmet",
+		"Facebook Material Theme",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"Laravel 5 Artisan",
+		"Laravel 5 Snippets",
+		"Laravel Blade Highlighter",
+		"MarkdownEditing",
+		"Package Control",
+		"PHP Codebeautifier",
+		"PHP Companion",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"SyncedSideBar"
+	]
+}
