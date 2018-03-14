@@ -18,6 +18,7 @@
 - SublimeLinter | 代码检测
 - SublimeLinter-PHP | PHP 代码实时报错检测
 - erichard/SublimePHPCompanion | 自动引入 namespace 主页
+- phpfmt | 格式化php代码  CRTL + F11
 
 
 # 使用说明
